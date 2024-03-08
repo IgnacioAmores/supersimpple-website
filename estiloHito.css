@@ -1,0 +1,67 @@
+﻿.fondo{
+	width:100%;
+	background-color: #ffb;
+	padding-top: 8px;
+}
+
+.encabezado {
+	margin:0 auto;
+	padding-top: 5px;
+	text-align: center;
+	width: 90%;
+	height: 2em; 
+	color: white;
+	background-color:grey;
+}
+
+.izquierda{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	width: 150px;
+	float:left;
+	background-color: hsl(0, 100%, 90%);
+	margin-right: 20px;
+	margin-bottom: 8px;
+}
+
+.pie{
+	padding-top: 10px;
+	padding-bottom:10px;
+	clear:left;
+	width: 100%;
+	background-color: black;
+	text-align:right;
+	color:white;
+}
+
+.texto{
+	padding-right:25px;
+}
+.cajas{
+	margin: 10px 25px;
+	padding: 5px;
+	text-align:center;
+	color: purple;
+	background-color: lightgray;
+	border:3.5px solid black;
+	border-radius: 7px;
+}
+
+.centrado{
+	margin:0 auto;
+	width:90%;
+	margin-top:8px;
+}
+
+div a{
+	text-decoration:none;
+}
+
+div.cajas:hover{
+	background-color:yellow;
+	font-weight:bold;
+}
+
+a.letra:hover{
+	color:black;
+}
